@@ -33,13 +33,6 @@ Rocket-Runner is a 2D endless runner game developed using Unity. In this game, y
 
 3. Play the game in the Unity Editor or build it for your preferred platform.
 
-## Gameplay Video
-
-Watch the gameplay video below to see the Endless Jet Runner in action!
-
-![Gameplay Video](path_to_your_video_file)
-
-## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
